@@ -1,0 +1,6 @@
+streamlit
+pandas
+json
+langchain
+langchain_pinecone
+pinecone-client
