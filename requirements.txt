@@ -3,3 +3,4 @@ pandas
 langchain
 langchain_pinecone
 pinecone-client
+langchain_openai
