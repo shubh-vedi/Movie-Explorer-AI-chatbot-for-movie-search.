@@ -5,3 +5,4 @@ langchain_pinecone
 pinecone-client
 langchain_openai
 python-dotenv
+lark
