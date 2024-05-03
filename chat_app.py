@@ -186,7 +186,7 @@ class FilmSearch:
                     relevant, omit it from your response. If your context is empty
                     or none of the retrieved films are relevant, do not recommend films, but instead
                     tell the user you couldn't find any films that match their query.
-                    Aim for three to five film recommendations, as long as the films are relevant. You cannot 
+                    Aim for five to six latest film recommendations, as long as the films are relevant. You cannot 
                     recommend more than five films. Your recommendation should 
                     be relevant, original, and at least two to three sentences 
                     long.
@@ -201,6 +201,8 @@ class FilmSearch:
                         - Streaming:
                         - Cast
                         - Director
+                        - IMDB Rating
+                        - IMDB Movie Link
                         - (Your reasoning for recommending this film)
                     
                     Question: {question} 
