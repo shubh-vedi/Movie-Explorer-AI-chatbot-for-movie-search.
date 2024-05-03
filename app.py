@@ -11,7 +11,7 @@ load_dotenv()
 
 
 st.set_page_config(
-    page_title="Film Search",
+    page_title="Movie Explorer",
     page_icon="🎥",
 )
  
